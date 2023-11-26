@@ -22,3 +22,21 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+.classpath
+.project
+/.metadata/
+/.settings
+/bin/*
+*/target/
+# */.mvn
+*.class
+*prefs
+*.rar
+*.lst
+*.MF
+# maven-wrapper.*
+# mvnw
+# mvnw.*
+25_cliente_viajes/.settings
+*/src/test/*
